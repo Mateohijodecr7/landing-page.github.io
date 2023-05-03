@@ -3,3 +3,4 @@
 export default function handler(req, res) {
   res.status(200).json({ name: 'John Doe' })
 }
+<h1>hola</h1>

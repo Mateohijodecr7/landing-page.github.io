@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 const quote = () => {
   return (
-    <section className="bg-gray-50 dark:bg-gray-800 bg-black	">
+    <section className=" dark:bg-gray-800  bg-black">
       <div className="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-24 lg:px-6">
         <figure className="max-w-screen-md mx-auto">
           <svg
