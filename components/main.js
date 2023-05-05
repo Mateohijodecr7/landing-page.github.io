@@ -37,7 +37,7 @@ const main = () => {
                 className="inline-flex items-center justify-center w-full px-5 py-3 text-sm font-medium text-center text-gray-900 border border-gray-200 rounded-lg sm:w-auto hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800"
               >
                 <div className="flex items-center  ">
-                  <img className="h-5 w-5" src="/github.png"  alt="github" />
+                  <img className="h-6 w-6" src="/github.png"  alt="github" />
 
                   <p className="pl-2">GitHub</p>
                 </div>

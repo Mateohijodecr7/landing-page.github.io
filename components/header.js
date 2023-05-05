@@ -40,6 +40,11 @@ const header = () => {
               </svg>
             </button>
           </div>
+          <>
+          </>
+          <>
+          </>
+          <img className='hidden w-14 h-14' src="/logom.jpg" alt="Logo Mateo" />
           <div
             className="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1"
             id="mobile-menu-2"

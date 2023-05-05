@@ -18,11 +18,12 @@ const footer = () => {
           <ul className="flex justify-center mt-5 space-x-5">
             <li>
               <Link
-                href="#"
+                href="https://www.facebook.com/profile.php?id=100067058862080"
+                target="_blank"
                 className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
               >
                 <svg
-                  className="w-5 h-5"
+                  className="w-8 h-8"
                   fill="currentColor"
                   viewBox="0 0 24 24"
                   aria-hidden="true"
@@ -37,11 +38,12 @@ const footer = () => {
             </li>
             <li>
               <Link
-                href="#"
+                href="https://www.instagram.com/mateo.santana15/"
+                target="_blank"
                 className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
               >
                 <svg
-                  className="w-5 h-5"
+                  className="w-8 h-8"
                   fill="currentColor"
                   viewBox="0 0 24 24"
                   aria-hidden="true"
@@ -56,11 +58,12 @@ const footer = () => {
             </li>
             <li>
               <Link
-                href="#"
+                href="https://twitter.com/__Gboy__"
+                target="_blank"
                 className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
               >
                 <svg
-                  className="w-5 h-5"
+                  className="w-8 h-8"
                   fill="currentColor"
                   viewBox="0 0 24 24"
                   aria-hidden="true"
@@ -71,11 +74,12 @@ const footer = () => {
             </li>
             <li>
               <Link
-                href="#"
+                href="https://github.com/Mateohijodecr7/landing-page.github.io"
+                target="_blank"
                 className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
               >
                 <svg
-                  className="w-5 h-5"
+                  className="w-8 h-8"
                   fill="currentColor"
                   viewBox="0 0 24 24"
                   aria-hidden="true"
