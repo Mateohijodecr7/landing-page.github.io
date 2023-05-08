@@ -49,7 +49,6 @@ const main = () => {
           </div>
         </div>
       </section>    
-      <br/>
     </>
   );
 };

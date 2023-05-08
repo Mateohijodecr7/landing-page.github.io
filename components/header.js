@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 /* eslint-disable @next/next/no-img-element */
 const header = () => {
   return (
@@ -52,7 +54,7 @@ const header = () => {
             <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
               <li>
                 <a
-                  href="#ME"
+                  href='/AboutMe'
                   className="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
                 >
                   About me
@@ -60,18 +62,10 @@ const header = () => {
               </li>
               <li>
                 <a
-                  href="#ABOUT-ME_V2"
+                  href='/ItMakesMeDiff'
                   className="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
                 >
                   What makes me different?
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#PROJECTS"
-                  className="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
-                >
-                  My projects
                 </a>
               </li>
               <li>

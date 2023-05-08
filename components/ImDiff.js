@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-const quote = () => {
+const ImDiff = () => {
   return (
     <section className=" dark:bg-gray-800  bg-black">
       <div className="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-24 lg:px-6">
@@ -24,16 +24,11 @@ const quote = () => {
             data-aos-once="false"
           >
             <p className="text-xl font-medium text-gray-900 md:text-2xl   text-white ">
-            Lo que me hace único de un programador front-end cualquiera es mi pasión por el diseño 
-            y la usabilidad de las interfaces web. Me gusta crear experiencias de usuario atractivas, 
-            intuitivas y accesibles, que se adapten a las necesidades y preferencias de cada cliente. 
-            Tengo conocimientos avanzados de HTML, CSS y JavaScript, así como de frameworks 
-            y librerías populares como React, Angular y Bootstrap. Además, me mantengo al día 
-            con las últimas tendencias y tecnologías del sector, y siempre busco aprender nuevas habilidades 
-            y herramientas que mejoren mi trabajo. Me considero una persona creativa, proactiva y colaborativa, 
-            que disfruta de trabajar en equipo y de compartir ideas y soluciones. Mi objetivo es desarrollar 
-            proyectos web de alta calidad, que cumplan con los estándares y las buenas prácticas, 
-            y que ofrezcan una excelente experiencia de usuario.
+            Soy un desarrollador front-end que se dedica a crear interfaces web atractivas y funcionales. 
+              Has progresado mucho en tu carrera, aprendiendo nuevas tecnologías y herramientas que te permiten 
+              optimizar tu trabajo y ofrecer soluciones innovadoras a tus clientes. Tienes un buen dominio de HTML, 
+              CSS y JavaScript, así como de frameworks como React o Angular. Te gusta estar al día de las tendencias y 
+              los estándares del diseño web, y aplicarlos en tus proyectos con creatividad y profesionalidad.
             </p>
           </blockquote>
           <figcaption className="flex items-center justify-center mt-6 space-x-3">
@@ -59,4 +54,4 @@ const quote = () => {
   );
 };
 
-export default quote;
+export default ImDiff;
