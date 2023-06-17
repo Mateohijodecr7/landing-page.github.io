@@ -14,10 +14,10 @@ const Projects = () => {
             data-aos-once="false"
             className="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white"
           >
-            projects I have worked on
+            Projects I have worked on
           </h2>
         </div>
-        <div
+        <div   //ghjkl
           data-aos="fade-up"
           className="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0"
         >
@@ -29,7 +29,7 @@ const Projects = () => {
             <h3 className="mb-4 text-2xl font-semibold">Landing-page</h3>
           </div>
 
-          <div className="shadow-lg shadow-cyan-500/50 flex flex-col max-w-lg p-6 mx-auto text-center text-gray-900 bg-white border border-gray-100 rounded-lg shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
+          <div className="shadow-lg  shadow-cyan-500/50 flex flex-col max-w-lg p-6 mx-auto text-center text-gray-900 bg-white border border-gray-100 rounded-lg shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
             <h3 className="mb-4 text-2xl font-semibold">Weather-app</h3>
           </div>
 
